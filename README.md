@@ -8,7 +8,6 @@ Front End developer with +2 years of experience in web applications development 
 
 * 🌍  I'm based in Iran
 * ✉️  You can contact me at [erfanallahdadi@gmail.com](mailto:erfanallahdadi@gmail.com)
-* 🧠  I'm learning typeScript
 
 <a href="https://www.github.com/erfan-allahdadi" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/erfan-allahdadi?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
